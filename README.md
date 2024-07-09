@@ -15,7 +15,7 @@
 <ul>
   <li><strong>Front-End:</strong> React, Shadcn-UI</li>
   <li><strong>Back-End:</strong> Supabase</li>
-  <li><strong>Data Visualization:</strong> Chart.js (or your preferred charting library)</li>
+  <li><strong>Data Visualization:</strong> Chart.js </li>
 </ul>
 
 <h2>Installation</h2>
